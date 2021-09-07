@@ -10,7 +10,7 @@ Assume a machine that has a single register and six instructions.
   ML A which multiplies the contents of the register by the variable A.
   DV A which divides the contents of the register by the variable A.
 
-This C a program that accepts a postfix expression containing single-letter operands and
+This C a program accepts a postfix expression containing single-letter operands and
 the operators +,-,*, and / and which prints a sequence of instructions to evaluate the
 expression and leave the result in the register.
 
